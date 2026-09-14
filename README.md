@@ -8,19 +8,17 @@ The project combines business KPIs, membership analytics, member-level tracking,
 
 ## 📊 Dashboard Preview
 
-### Overall Dashboard
-![Overall Dashboard](Images/Overview.png)
+### 🏠 Home Page
+![Home Page](Images/1st_page_%28home%29.png)
 
-### Home Page
-![Home Page](Images/Home_Page.png)
+### 📊 Overall Dashboard
+![Overall Dashboard](Images/2nd_page_%28overall%29.png)
 
-### Fitness Calculator
-![Fitness Calculator](Images/Calculator.png)
+### 🧮 Fitness Calculator
+![Fitness Calculator](Images/3rd_page_%28calculator%29.png)
 
-### Members Analysis
-![Members Analysis](Images/Member.png)
-
----
+### 👥 Members Analysis
+![Members Analysis](Images/4th_page_%28members%29.png)
 
 ## 🎯 Project Objectives
 
